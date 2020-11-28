@@ -379,6 +379,7 @@
     ],
     "ads": {
       "chosen_ad": 0,
+      "intl_ad_frequency": 1,
       "bnr_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "intl_ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
     }
