@@ -365,33 +365,7 @@
             "https://1.bp.blogspot.com/-rXCXxuEToS8/X8Yx2OfwrdI/AAAAAAAAAbE/ilT6Yr7YKxEG1wVIZcri5LVip84YBeUigCPcBGAYYCw/s1024/image140.jpg",
             "https://1.bp.blogspot.com/-ngJYX9zZtTY/X8Yx19bVAYI/AAAAAAAAAbU/fwBD_gmX7FUX06Xm1HIf7-H5QBSq2gKQwCPcBGAYYCw/s600/image131.jpg"
         ],
-        "more_apps": [
-            {
-                "name": "Upin Ipin Run",
-                "icon": "https://picsum.photos/id/489/512/512",
-                "url": "https://play.google.com/store/apps/details?id=com.cocoplay.fashion.style"
-            },
-            {
-                "name": "Baby Quiz",
-                "icon": "https://picsum.photos/id/489/512/512",
-                "url": "https://play.google.com/store/apps/details?id=com.whatsapp"
-            },
-            {
-                "name": "Abstract Wallpaper HD",
-                "icon": "https://picsum.photos/id/948/512/512",
-                "url": "https://play.google.com/store/apps/details?id=com.atari.mobile.rctstory"
-            },
-            {
-                "name": "Riddle For Fun",
-                "icon": "https://picsum.photos/id/512/512/512",
-                "url": "https://play.google.com/store/apps/details?id=com.infinitygames.laserquest"
-            },
-            {
-                "name": "Funny Photo Editor Free",
-                "icon": "https://picsum.photos/id/980/512/512",
-                "url": "https://play.google.com/store/apps/details?id=com.spotify.music"
-            }
-        ],
+        "more_apps": [],
         "ads": {
             "chosen_ad": 1,
             "intl_ad_frequency": 1,
