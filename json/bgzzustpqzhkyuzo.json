@@ -85,7 +85,18 @@
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoxpkgEbOh20vZSUFBzoVN4drJAERkl0ORrXa3rxNxBUsNKvvknWUsq80g8Eej5x721NwKuECPhzNPpKWhnnRHchKZbKqxWii4RvG0AC0f43dPeVGjiXCeFzWHrIMlp2bMM-DuZZGAS_ZAs6zZGvwEG4A19cVsrAuAmfOMIxmjrhfKnOhBoRrRUMUTJQ/s720/a69eada2e3319c870d39a3ee296a1779.jpg_720x720q80.jpg_.webp",
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7vcCKQcGoZvZBOKdp4ug_CYXWaAxO0rxsYskBhObvm38WW_BXN1pLNxRyKiz7GFLyntdCRCDrRL5sKcWNEXoq-oNWmkpllE8F6Kp0lbVJL8arpDZ7GaNrLgcYiqLcoknbZBfZaEQ2ATxU4076ywltgyhXOG6HAmkiLoVZD7akfJJnUkWODZeJmeGMEg/s720/30b5f7f213dc98ba9cd683976dafe637.jpg_720x720q80.jpg_.webp"
     ],
-    "more_apps": [],
+    "more_apps": [
+      {
+        "name": "Army Story",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdGB816KbbvPc_YEzrqMv5iYi2n92k5qEb7JtrOiINK4tOiIqqa0CXQyiziurKKJv6lQOhoYhgzIYrlPxA5a85FunYPxP2UhBdexeYl5g-QlmsBCO060rKzHCmYbzmE_7qBuZmsIQesyDVwU_VbIXzmh9KStueE2KtQYuODTMXWs_B08Lqwu8CqSeXnA/s512/512_white.png",
+        "url": "https://play.google.com/store/apps/details?id=my.id.erik.armystory"
+      },
+      {
+        "name": "Satu Abad PSHT: Terate Emas",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdGB816KbbvPc_YEzrqMv5iYi2n92k5qEb7JtrOiINK4tOiIqqa0CXQyiziurKKJv6lQOhoYhgzIYrlPxA5a85FunYPxP2UhBdexeYl5g-QlmsBCO060rKzHCmYbzmE_7qBuZmsIQesyDVwU_VbIXzmh9KStueE2KtQYuODTMXWs_B08Lqwu8CqSeXnA/s512/512_white.png",
+        "url": "https://play.google.com/store/apps/details?id=or.id.psht.terate.emas"
+      }
+    ],
     "ads": {
       "chosen_ad": 1,
       "intl_ad_frequency": 1,
