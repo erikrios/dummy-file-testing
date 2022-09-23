@@ -1,0 +1,113 @@
+{
+  "status": "success",
+  "data": {
+    "categories": [
+      {
+        "name": "Tech",
+        "wallpapers": [
+          "https://picsum.photos/id/1/720/1280",
+          "https://picsum.photos/id/2/480/800",
+        ]
+      },
+      {
+        "name": "Nature",
+        "wallpapers": [
+          "https://picsum.photos/id/31/720/1280",
+          "https://picsum.photos/id/32/480/800",
+          "https://picsum.photos/id/33/512/512",
+          "https://picsum.photos/id/34/900/500",
+        ]
+      },
+      {
+        "name": "Animal",
+        "wallpapers": [
+          "https://picsum.photos/id/61/720/1280",
+          "https://picsum.photos/id/62/480/800",
+          "https://picsum.photos/id/63/512/512",
+          "https://picsum.photos/id/64/900/500",
+        ]
+      },
+      {
+        "name": "Arts",
+        "wallpapers": [
+          "https://picsum.photos/id/1/720/1280",
+          "https://picsum.photos/id/2/480/800",
+          "https://picsum.photos/id/3/512/512",
+          "https://picsum.photos/id/4/900/500",
+          "https://picsum.photos/id/5/1280/1720",
+          "https://picsum.photos/id/6/580/960",
+        ]
+      },
+      {
+        "name": "Architecture",
+        "wallpapers": [
+          "https://picsum.photos/id/31/720/1280",
+          "https://picsum.photos/id/32/480/800",
+          "https://picsum.photos/id/33/512/512",
+          "https://picsum.photos/id/34/900/500",
+          "https://picsum.photos/id/35/1280/1720",
+          "https://picsum.photos/id/36/580/960",
+          "https://picsum.photos/id/37/900/480",
+          "https://picsum.photos/id/38/700/700",
+          "https://picsum.photos/id/39/1000/1200",
+        ]
+      },
+      {
+        "name": "Ocean",
+        "wallpapers": [
+          "https://picsum.photos/id/61/720/1280",
+          "https://picsum.photos/id/62/480/800",
+          "https://picsum.photos/id/63/512/512",
+        ]
+      },
+      {
+        "name": "Space",
+        "wallpapers": [
+          "https://picsum.photos/id/1/720/1280",
+          "https://picsum.photos/id/2/480/800",
+          "https://picsum.photos/id/3/512/512",
+          "https://picsum.photos/id/4/900/500",
+          "https://picsum.photos/id/5/1280/1720",
+          "https://picsum.photos/id/6/580/960",
+        ]
+      },
+      {
+        "name": "Abstract",
+        "wallpapers": [
+          "https://picsum.photos/id/31/720/1280",
+          "https://picsum.photos/id/32/480/800",
+          "https://picsum.photos/id/33/512/512",
+          "https://picsum.photos/id/34/900/500",
+          "https://picsum.photos/id/35/1280/1720",
+          "https://picsum.photos/id/36/580/960",
+          "https://picsum.photos/id/37/900/480",
+        ]
+      },
+      {
+        "name": "Science",
+        "wallpapers": [
+          "https://picsum.photos/id/61/720/1280",
+          "https://picsum.photos/id/62/480/800",
+          "https://picsum.photos/id/63/512/512",
+          "https://picsum.photos/id/64/900/500",
+          "https://picsum.photos/id/65/1280/1720",
+        ]
+      }
+    ],
+    "popular": [
+      "https://picsum.photos/id/340/720/1280",
+      "https://picsum.photos/id/534/480/800",
+      "https://picsum.photos/id/446/512/512",
+      "https://picsum.photos/id/656/900/500",
+      "https://picsum.photos/id/245/1280/1720",
+    ],
+    "more_apps": [],
+    "ads": {
+      "chosen_ad": 1,
+      "intl_ad_frequency": 1,
+      "bnr_ad_unit_id": "",
+      "intl_ad_unit_id": ""
+    }
+  },
+  "message": null
+}
