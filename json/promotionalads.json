@@ -1,0 +1,269 @@
+{
+
+"exit_ads":
+{
+"app_numbers":"1,2,3,4,5,6"
+},
+
+"share_ads":
+{
+"app_numbers":"1,2,3,4,5,6"
+},
+
+"main_ads":
+{
+"app_numbers":"1,2,3,4,5,6"
+},
+
+  
+  "all_ads": [
+    {
+
+     "app_number": "1",
+      "app_name": "Army Story",
+      "app_icon_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdGB816KbbvPc_YEzrqMv5iYi2n92k5qEb7JtrOiINK4tOiIqqa0CXQyiziurKKJv6lQOhoYhgzIYrlPxA5a85FunYPxP2UhBdexeYl5g-QlmsBCO060rKzHCmYbzmE_7qBuZmsIQesyDVwU_VbIXzmh9KStueE2KtQYuODTMXWs_B08Lqwu8CqSeXnA/s512/512_white.png",
+      "app_play_store_link": "market://details?id=my.id.erik.armystory"
+  
+    },
+    {
+
+     "app_number": "2",
+      "app_name": "Satu Abad PSHT: Terate Emas",
+      "app_icon_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyAquuByRUU9fnZ9OLDC8WRJf-RbbIi0qpo7ejbJxvRtKvB0OPIE9TcEquI5PFTR560T5ErSmDOzQ-NYRM7IAE7vVhgF5GH5O7V6Cte3GGY0CyVxzda_NuWdOPAfw4NDh37jHCCKTtS3IGCtR0Zet2_L_pA94QGIW4D1iUPdwJXrUvjemwHMlC9BYfAQ/s512/ic.png",
+      "app_play_store_link": "market://details?id=or.id.psht.terate.emas"
+  
+    },
+    {
+
+     "app_number": "3",
+      "app_name": "Brigez Wallpaper",
+      "app_icon_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_2disKWKH66dN6zUPtFyjmZMVLQQpJHADQi5y7Vs9kC61mGi6ubRbJYoJjpRQ59Oycz-SY0WFuS_7VJ0gYmVXjUvYdCn-D_t5UrpbC06ZnEx3wRCcQ6u0gCA1OvJaj4PZD9z-n4VgT7y6GLA6pgs-Au3cUnrUXkKOuMqCgFS7VmMV7k5SaDMsCjMoBw/s512/ic_square.png",
+      "app_play_store_link": "market://details?id=id.ormasbrigez.wallpaper"
+  
+    },
+    {
+
+     "app_number": "4",
+      "app_name": "XTC Wallpaper",
+      "app_icon_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBoqbF0XkZ00IBcylItAdGOwjF2Zkqzob9LvDB9HFFyh5IdWw_XFzImx3abng6v4Nj1sJxWKekqoskWwx04obUopR8-jcWrT50Q-oo4epJQasZ_YHN9vD0odbaamGpbWJHTNemeLGMrRlRWW9-zcYbm3eqXFhbbIq3BhbOnao6mPFF6GDCcKua93QM1g/s512/ic_rectangle.png",
+      "app_play_store_link": "market://details?id=org.xtcindonesia.wallpaper"
+  
+    },
+    {
+
+     "app_number": "5",
+      "app_name": "Army Story",
+      "app_icon_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdGB816KbbvPc_YEzrqMv5iYi2n92k5qEb7JtrOiINK4tOiIqqa0CXQyiziurKKJv6lQOhoYhgzIYrlPxA5a85FunYPxP2UhBdexeYl5g-QlmsBCO060rKzHCmYbzmE_7qBuZmsIQesyDVwU_VbIXzmh9KStueE2KtQYuODTMXWs_B08Lqwu8CqSeXnA/s512/512_white.png",
+      "app_play_store_link": "market://details?id=my.id.erik.armystory"
+  
+    },
+    {
+
+     "app_number": "6",
+       "app_name": "Satu Abad PSHT: Terate Emas",
+      "app_icon_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyAquuByRUU9fnZ9OLDC8WRJf-RbbIi0qpo7ejbJxvRtKvB0OPIE9TcEquI5PFTR560T5ErSmDOzQ-NYRM7IAE7vVhgF5GH5O7V6Cte3GGY0CyVxzda_NuWdOPAfw4NDh37jHCCKTtS3IGCtR0Zet2_L_pA94QGIW4D1iUPdwJXrUvjemwHMlC9BYfAQ/s512/ic.png",
+      "app_play_store_link": "market://details?id=or.id.psht.terate.emas"
+  
+    },
+    {
+
+     "app_number": "7",
+      "app_name": "Wedding Invitation Card Maker",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F7.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.weddinginvitationcardmaker.wedding.invitation.card.maker.photo.frames"
+  
+    },
+    {
+
+     "app_number": "8",
+      "app_name": "Love Test Calculator Prank",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F8.png?alt=media&token",
+      "app_play_store_link": "market://details?id=apptrends.love_test_calculator_lovephotoframes"
+  
+    },
+    {
+
+     "app_number": "9",
+      "app_name": "Mobile, SIM and Location Info",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F9.png?alt=media&token",
+      "app_play_store_link": "market://details?id=apptrends.mobile_sim_and_location_info"
+  
+    },
+      {
+       "app_number": "10",
+       "app_name": "Pencil Sketch",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F10.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.pencilsketch.art.pencil.sketch.art.photo.editor"
+
+         },
+         {
+
+          "app_number": "11",
+           "app_name": "Family Photo Frames",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F11.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.familyphotoframe.family.photo.frame.tree.editor.maker"
+
+         },
+         {
+
+          "app_number": "12",
+           "app_name": "3D Cube Live Wallpaper",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F12.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends_3d_cube_live_wallpaper_photo_editor"
+
+         },
+         {
+
+          "app_number": "13",
+           "app_name": "Word Cloud Art Generator",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F13.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.wordcloudartgenerator.word.cloud.art.generator.creator.photo.editor"
+
+         },
+         {
+
+          "app_number": "14",
+           "app_name": "Clock Live Wallpaper",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F14.png?alt=media&token",
+      "app_play_store_link": "market://details?id=s.hd_live_wallpaper.photo_clock_live_wallpaper"
+
+         },
+         {
+
+          "app_number": "15",
+           "app_name": "Photo Blender",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F15.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.multiplephotoblender.multiple.photo.blender.photoblender.mixer.maker.editor"
+
+         },
+         {
+
+          "app_number": "16",
+           "app_name": "Fishes Live Wallpaper",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F16.png?alt=media&token",
+      "app_play_store_link": "market://details?id=apptrends.fishes_live_wallpaper"
+
+         },
+         {
+
+          "app_number": "17",
+           "app_name": "Photo Collage",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F17.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.pic_collage.photo_frames.photo_collage.pip.mirror.maker.editor"
+
+         },
+           {
+                "app_number": "18",
+                "app_name": "All Photo Frames",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F18.png?alt=media&token",
+      "app_play_store_link": "market://details?id=apptrends.happy_new_year_2017_celebrations_photo_frames_greetings_and_messages"
+
+                  },
+                  {
+
+                   "app_number": "19",
+                    "app_name": "3D My Name Live Wallpaper",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F19.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.a3dmynamelivewallpaper.a3d.my.name.live.wallpaper"
+
+                  },
+                  {
+
+                   "app_number": "20",
+                    "app_name": "Photo Lab",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F20.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.photolab.photo.lab.animation.face.effects.maker.editor.picture.pip.blend.gif.frame"
+
+                  },
+                  {
+
+                   "app_number": "21",
+                    "app_name": "Cell Phone Location Tracker",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F21.png?alt=media&token",
+      "app_play_store_link": "market://details?id=s.hd_live_wallpaper.cell_phone_location_tracker"
+
+                  },
+                  {
+
+                   "app_number": "22",
+                    "app_name": "Calculator Lock",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F22.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.calculator.lock.hide.photos.videos.locker.gallery.vault"
+
+                  },
+                  {
+
+                   "app_number": "23",
+                    "app_name": "Calendar Photo Frames",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F23.png?alt=media&token",
+               "app_play_store_link": "market://details?id=com.apptrends.calendarphotoframes2020.calendar.photo.frames.Editor.maker"
+
+                  },
+                  {
+
+                   "app_number": "24",
+                    "app_name": "Name Live Wallpaper",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F24.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.namelivewallpaper.hd.my.name.live.wallpaper"
+
+                  },
+                  {
+
+                   "app_number": "25",
+                    "app_name": "Movie Effects Photo Editor",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F25.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.filmmaker.movieeffectsphotoeditor.movie.effects.photo.editor.fx.maker"
+                  },
+                  {
+
+                   "app_number": "26",
+                    "app_name": "2022 New year Greetings",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F26.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.photoframes.greetings.gif.video.status.photo.frames.editor.music.maker"
+                  },
+                  {
+
+                   "app_number": "27",
+                    "app_name": "Name Video Maker",
+      "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F27.png?alt=media&token",
+      "app_play_store_link": "market://details?id=com.apptrends.namevideomaker.statusmaker.name.video.maker.photo.status.arts.music"
+                  },
+              {
+
+               "app_number": "28",
+                "app_name": "2022 New year fireworks",
+  "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F28.png?alt=media&token",
+  "app_play_store_link": "market://details?id=s.hd_live_wallpaper.new_year_fire_works_live_wallpaper"
+              },
+                 {
+
+                "app_number": "29",
+                 "app_name": "Video Status Maker",
+                     "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F29.png?alt=media&token",
+                     "app_play_store_link": "market://details?id=com.apptrends.videostatusmaker.video.status.maker.stausdownloader"
+                   },
+                 {
+
+                "app_number": "30",
+                 "app_name": "Profile Pic Maker",
+                     "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F30.png?alt=media&token",
+                     "app_play_store_link": "market://details?id=com.apptrends.profilepicturemaker.profile.picture.maker.dp.circle.border.status.image.photo.editor"
+                   },
+        {
+
+        "app_number": "31",
+        "app_name": "Telugu Calendar",
+         "app_icon_link": "https://firebasestorage.googleapis.com/v0/b/all-apps-fd85b.appspot.com/o/dynamicads%2Fimages%2F31.png?alt=media&token",
+          "app_play_store_link": "market://details?id=com.apptrends.telugucalendar.telugu.calendar.hindu.jatakam.horoscope.astrology.telugupanchangam"
+       }
+  ],
+
+"Playstorename": [
+      {
+    "app_play_store_link": "https://play.google.com/store/apps/developer?id=AppTrends"
+
+	}
+]
+
+
+}
