@@ -387,19 +387,24 @@
     ],
     "more_apps": [
       {
-        "name": "Reog Apps",
-        "icon": "https://1.bp.blogspot.com/-lNKt8ku3tWQ/YE3HPGk0BmI/AAAAAAAABvU/gfGF_sjMauUZCtM3vbCC7doJlk4m8KWJACLcBGAsYHQ/s512/Logo_Rectangle.png",
-        "url": "https://play.google.com/store/apps/details?id=io.erikrios.github.reogapps"
+        "name": "Army Story",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdGB816KbbvPc_YEzrqMv5iYi2n92k5qEb7JtrOiINK4tOiIqqa0CXQyiziurKKJv6lQOhoYhgzIYrlPxA5a85FunYPxP2UhBdexeYl5g-QlmsBCO060rKzHCmYbzmE_7qBuZmsIQesyDVwU_VbIXzmh9KStueE2KtQYuODTMXWs_B08Lqwu8CqSeXnA/s512/512_white.png",
+        "url": "https://play.google.com/store/apps/details?id=my.id.erik.armystory"
       },
       {
-        "name": "Reog Wallpaper",
-        "icon": "https://1.bp.blogspot.com/-vfj_618pNVA/YE3HSd2sCiI/AAAAAAAABvY/9C2Ac5fSEJsQRHT0wWGk75XFXNvMLDsBgCLcBGAsYHQ/s512/IconRectangle.png",
-        "url": "https://play.google.com/store/apps/details?id=io.erikrios.github.reogwallpaper"
+        "name": "Satu Abad PSHT: Terate Emas",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyAquuByRUU9fnZ9OLDC8WRJf-RbbIi0qpo7ejbJxvRtKvB0OPIE9TcEquI5PFTR560T5ErSmDOzQ-NYRM7IAE7vVhgF5GH5O7V6Cte3GGY0CyVxzda_NuWdOPAfw4NDh37jHCCKTtS3IGCtR0Zet2_L_pA94QGIW4D1iUPdwJXrUvjemwHMlC9BYfAQ/s512/ic.png",
+        "url": "https://play.google.com/store/apps/details?id=or.id.psht.terate.emas"
       },
       {
-        "name": "Wallpaper Kucing Oren",
-        "icon": "https://1.bp.blogspot.com/-3e6kIDcddGk/YE3HUErDudI/AAAAAAAABvc/lJCX1aXFs4A7sn-q5f3tKmLOU0MuKsk_QCLcBGAsYHQ/s512/IconRectangle.png",
-        "url": "https://play.google.com/store/apps/details?id=io.erikrios.github.kucingorenwallpaper"
+        "name": "Brigez Wallpaper",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_2disKWKH66dN6zUPtFyjmZMVLQQpJHADQi5y7Vs9kC61mGi6ubRbJYoJjpRQ59Oycz-SY0WFuS_7VJ0gYmVXjUvYdCn-D_t5UrpbC06ZnEx3wRCcQ6u0gCA1OvJaj4PZD9z-n4VgT7y6GLA6pgs-Au3cUnrUXkKOuMqCgFS7VmMV7k5SaDMsCjMoBw/s512/ic_square.png",
+        "url": "https://play.google.com/store/apps/details?id=id.ormasbrigez.wallpaper"
+      },
+      {
+        "name": "XTC Wallpaper",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBoqbF0XkZ00IBcylItAdGOwjF2Zkqzob9LvDB9HFFyh5IdWw_XFzImx3abng6v4Nj1sJxWKekqoskWwx04obUopR8-jcWrT50Q-oo4epJQasZ_YHN9vD0odbaamGpbWJHTNemeLGMrRlRWW9-zcYbm3eqXFhbbIq3BhbOnao6mPFF6GDCcKua93QM1g/s512/ic_rectangle.png",
+        "url": "https://play.google.com/store/apps/details?id=org.xtcindonesia.wallpaper"
       }
     ],
     "ads": {
