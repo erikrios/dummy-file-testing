@@ -250,7 +250,28 @@
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEideqlg8lckl6SFiOBpIZlH1BHXOBdGLUzsliwCk_1_27qQc7UPIrWbjnM9vRKZcI-6qGpzpfoVkvLUk6QXZ4wd3h-3rzhrLK9VeppOeEgQz87u-_sFOFnu33kVoC6NmPFb23SqRZtM1VsFm4rz76S5Omih1uB_YabvUguCBPuLp0WMXFCoRrMBqg4hxg/s1080/p_6835152627133517321059_0_3a27e897ddd16df7a4d96d7e397c607b.jpg",
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYNBwUYuTSec9QJ5raLRsR5eWOwXd0baHO3VjMkJGviMf7_lwzrIiXQSnApGe4AQUv308NmD-CEVubHlcKesl-YJVKKDuHcJ0hPXgef2Np6FC2iF0uN17j-tDr4yS6nw2RJ5wcYVJt7tV_1S3O8Ef6aWWexbdQeFQ8aD6NC3HVnUdN505atLiSclv3yw/s1080/p_6872421162601734666871_0_9084052344c5fc8037c8d62dcdacd086.jpg"
     ],
-    "more_apps": [],
+    "more_apps": [
+      {
+        "name": "Twibbon PSHT",
+        "icon": "https://blogger.googleusercontent.com/img/a/AVvXsEigfU-8BApGcaLnqyuh-eoEZBcHdljhR4i5aG2fnjMeuypVi67P2vKBp_vYXSuL2wIqLEgBwIskvriZeMsPAm8kDchKDEE_RdgpJAjYqbuzKJ3q2tJGtGSvPjmCkOm47zqyhe2WWxYg8UVb8urD-FhIxBUXs0_9gNqoPLPy-NSu6ZmeP8EU87BKcvaQbQ",
+        "url": "https://play.google.com/store/apps/details?id=or.id.psht.twibbon"
+      },
+      {
+        "name": "Lagu PSHT",
+        "icon": "https://blogger.googleusercontent.com/img/a/AVvXsEjRMRTUWrOL3XwDEwv-rw_WWqenlaA_jObsjvoFz6WPS1lliTcjCVVtEsD2cKV99H9OdHWRzn5I5kuzZhm03WbCW0X3-UDfWbeRXPK8Ii5gNPzpbtdn-VcgPzGb6w5UcLDZQUh6OmUtYgx4fHlje_5C4-Gkk7XNlWT7L7Ap5q5t4oPIe4OqykQYa6XP8Q",
+        "url": "https://play.google.com/store/apps/details?id=id.my.erik.lagu.psht"
+      },
+      {
+        "name": "PSHT Apps",
+        "icon": "https://blogger.googleusercontent.com/img/a/AVvXsEgsqpMMRB-eViU3dr1gcshKbmmPCGaONS-W_7kCzev5LSKSd2fPjhddX8TTu3Kxc7xsSAVMgMrtu9fxOw94i1s63ZTYh-Y8d8_Mmq4iBRAGlwxtZHbu80GL0zoEbFJ8ovKLRwiZgqCP-GGj5vWR6CykF_lXMSX_mIXk0EQ7oK0exjzdWTh-LW6pKz2PpQ",
+        "url": "https://play.google.com/store/apps/details?id=id.or.psht.apps"
+      },
+      {
+        "name": "Reog Ponorogo Wallpaper",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicXn9uLgYKSLHW4NicI8cJ4j3vz0QjMIIbK3eX_JxhancAdIUlXJxzzLbvW80CxT50MFKgWsMR2X1ogooi-YjwVtjnouBq43vzZZx1iwCYEoAlcMjCtKeO_FdMNwBledtKOuOqPXmsiXS_xxMsISY1_X3ogoUPCMdLueVFTvfyMdwr7QJgTkZCQKYcXg/s512/ic.png",
+        "url": "https://play.google.com/store/apps/details?id=erik.my.id.reog.ponorogo.wallpaper"
+      }
+    ],
     "ads": {
       "chosen_ad": 1,
       "intl_ad_frequency": 4,
