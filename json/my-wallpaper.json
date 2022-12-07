@@ -354,27 +354,27 @@
       {
         "name": "Upin Ipin Run",
         "icon": "https://picsum.photos/id/489/512/512",
-        "url": "https://play.google.com/store/apps/details?id=com.cocoplay.fashion.style"
+        "url": "market://details?id=com.cocoplay.fashion.style"
       },
       {
         "name": "Baby Quiz",
         "icon": "https://picsum.photos/id/489/512/512",
-        "url": "https://play.google.com/store/apps/details?id=com.whatsapp"
+        "url": "market://details?id=com.whatsapp"
       },
       {
         "name": "Abstract Wallpaper HD",
         "icon": "https://picsum.photos/id/948/512/512",
-        "url": "https://play.google.com/store/apps/details?id=com.atari.mobile.rctstory"
+        "url": "market://details?id=com.atari.mobile.rctstory"
       },
       {
         "name": "Riddle For Fun",
         "icon": "https://picsum.photos/id/512/512/512",
-        "url": "https://play.google.com/store/apps/details?id=com.infinitygames.laserquest"
+        "url": "market://details?id=com.infinitygames.laserquest"
       },
       {
         "name": "Funny Photo Editor Free",
         "icon": "https://picsum.photos/id/980/512/512",
-        "url": "https://play.google.com/store/apps/details?id=com.spotify.music"
+        "url": "market://details?id=com.spotify.music"
       }
     ],
     "ads": {
