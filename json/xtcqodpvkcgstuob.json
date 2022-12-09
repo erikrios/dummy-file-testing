@@ -123,6 +123,26 @@
         "name": "Lagu Reog Ponorogo",
         "icon": "https://blogger.googleusercontent.com/img/a/AVvXsEgZyAwYM5T9Mka2jAuQE7UTa26az9uPyk7xqhfk_RV-YCqX7sYOaLifXk6z9BtE4FqBY4hUsGfc-_y7AhvWIpM2ky4DpRSZP2PNrjRq6X98t00_PzxtEd6LzBw2YKAY5D1xHFnAtNcmeDu4j32GMNDL-fX80xM2Qy1UPXdV9sPLhKl_k7HZfL2edBeXIQ",
         "url": "market://details?id=id.my.erik.lagu.reog.ponorogo"
+      },
+      {
+        "name": "Twibbon PSHT",
+        "icon": "https://blogger.googleusercontent.com/img/a/AVvXsEigfU-8BApGcaLnqyuh-eoEZBcHdljhR4i5aG2fnjMeuypVi67P2vKBp_vYXSuL2wIqLEgBwIskvriZeMsPAm8kDchKDEE_RdgpJAjYqbuzKJ3q2tJGtGSvPjmCkOm47zqyhe2WWxYg8UVb8urD-FhIxBUXs0_9gNqoPLPy-NSu6ZmeP8EU87BKcvaQbQ",
+        "url": "market://details?id=or.id.psht.twibbon"
+      },
+      {
+        "name": "Lagu PSHT",
+        "icon": "https://blogger.googleusercontent.com/img/a/AVvXsEjRMRTUWrOL3XwDEwv-rw_WWqenlaA_jObsjvoFz6WPS1lliTcjCVVtEsD2cKV99H9OdHWRzn5I5kuzZhm03WbCW0X3-UDfWbeRXPK8Ii5gNPzpbtdn-VcgPzGb6w5UcLDZQUh6OmUtYgx4fHlje_5C4-Gkk7XNlWT7L7Ap5q5t4oPIe4OqykQYa6XP8Q",
+        "url": "market://details?id=id.my.erik.lagu.psht"
+      },
+      {
+        "name": "PSHT Apps",
+        "icon": "https://blogger.googleusercontent.com/img/a/AVvXsEgsqpMMRB-eViU3dr1gcshKbmmPCGaONS-W_7kCzev5LSKSd2fPjhddX8TTu3Kxc7xsSAVMgMrtu9fxOw94i1s63ZTYh-Y8d8_Mmq4iBRAGlwxtZHbu80GL0zoEbFJ8ovKLRwiZgqCP-GGj5vWR6CykF_lXMSX_mIXk0EQ7oK0exjzdWTh-LW6pKz2PpQ",
+        "url": "market://details?id=id.or.psht.apps"
+      },
+      {
+        "name": "Jam PSHT",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjexjixaseLJN54sDOO9WchQzEB6A_c1sS68ITs2PBXlcrpi88bmclFXeFVMCENag9ZoujmU07IzHlesHbeghokdDO2q6lx27B96xFlNo4arpm7uT-eA6n1PS6GSiuxNZNwEvEVuPSwPyt_I8Sduk10mvCmf2r2qdP9l4qG14YN8NGGJbaLLTyOovqzZA/s240/unnamed.webp",
+        "url": "market://details?id=id.or.psht.jam"
       }
     ],
     "ads": {
